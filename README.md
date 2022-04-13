@@ -15,7 +15,7 @@
 3. <b>Streaming 直播</b>  
     <b>[OBS](https://obsproject.com/):</b> 長久以來直播主使用的OBS就是開源軟件，不需要尋找替代品。
 
-4. <b>Face mesh 面容定位</b>  
+4. <b>Face mesh 面容辨識</b>  
     <b>[Mediapipe](https://github.com/google/mediapipe):</b> Mediapipe是Google的開源人工智能工具，可以用作面容定位。其他現存的Blender面容定位方案例如OpenPose，Ai Face都不是開源方案。
 
 
