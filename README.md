@@ -8,6 +8,8 @@
 
 2. <b>Rendering 模型渲染</b>  
     <b>[Blender](https://www.blender.org/):</b> 直接在Blender的viewport上render，如果只用圖片的話可以直接viewport shading，如果需要更加複雜的shader的話可以使用Eevee renderer。把viewport的背景換成綠色就可以色鍵去背。
+    
+    Blender的物理系統使用timeline，無法在viewport中無限播放，但可以用python script每frame更新物件。
 
 
 3. <b>Streaming 直播</b>  
